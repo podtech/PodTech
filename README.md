@@ -26,3 +26,6 @@ Você pode enviar sua pergunta sempre até a quinta-feira, depois disso o Cast f
 
 ## Quando sai o episódio?
 Todo sábado às <b>11:30</b>.
+
+## E se eu quiser sugerir/indicar algum convidado?
+Você pode, é só criar uma Issue para isso, normalmente como faz para perguntar, nós iremos separar e marcar com a tag Convidado.
