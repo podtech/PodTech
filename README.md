@@ -13,3 +13,16 @@ Fácil, basta abrir uma Issue.
  - No canto superior direito tem um botão verde (New Issue), é só clicar.
  - Agora escolha o título e descreva a pergunta.
  - Pronto ;)
+
+## Até que dia posso enviar minha pergunta?
+Você pode enviar sua pergunta sempre até a quinta-feira, depois disso o Cast fecha e começa um novo.
+
+## Como sei quem é o convidado e qual o tema?
+É só ficar ligado:
+ - Canal: https://www.youtube.com/EuProgramadorOficial
+ - Página: https://www.facebook.com/CanalEuProgramador
+
+<b>E acompanhar os Casts!!!</b>
+
+## Quando sai o episódio?
+Todo sábado às <b>11:30</b>.
