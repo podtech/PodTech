@@ -6,12 +6,12 @@
 Este repositório foi feito para que a comunidade possa enviar suas perguntas para nossos convidados e assim interagir conosco.
 
 ## Como envio minha pergunta?
-Fácil, basta abrir uma Issue.
+Fácil, basta comentar nossa Issue.
 
 ### Não sabe como?
  - Basta clicar em Issues ai em cima :)
- - No canto superior direito tem um botão verde (New Issue), é só clicar.
- - Agora escolha o título e descreva a pergunta.
+ - Vai ter uma Issue sobre o convidado da semana, marcada com a Tag tema, é só clicar.
+ - Agora leia os comentários, caso haja, e se ninguêm fez a pergunta que quer ainda é só faze-la nos comentários.
  - Pronto ;)
 
 ## Até que dia posso enviar minha pergunta?
@@ -28,4 +28,10 @@ Você pode enviar sua pergunta sempre até a quinta-feira, depois disso o Cast f
 Todo sábado às <b>11:30</b>.
 
 ## E se eu quiser sugerir/indicar algum convidado?
-Você pode, é só criar uma Issue para isso, normalmente como faz para perguntar, nós iremos separar e marcar com a tag Convidado.
+Você pode, é só criar uma Issue para isso, nós iremos separar e marcar com a tag Convidado.
+
+### Não sabe como?
+ - Basta clicar em Issues ai em cima :)
+ - No canto superior direito tem um botão verde (New Issue), é só clicar.
+ - Coloque o nome do convidado como titulo e descreva a sugestão na desvrição.
+ - Pronto ;)
