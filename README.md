@@ -1,7 +1,7 @@
 # PodTech
 ![Logo PodTech](https://ap.imagensbrasil.org/images/teste0e4b1.png)
 
-<b>PodTech é um ScreenCast semanal dinâmico, onde cada semana temos um convidado e um tema diferente.</b>
+<b>PodTech é um PodCast semanal dinâmico, onde cada semana temos um convidado e um tema diferente geralmente relacionado a linguagem Go.</b>
 
 Este repositório foi feito para que a comunidade possa enviar suas perguntas para nossos convidados e assim interagir conosco.
 
@@ -19,13 +19,14 @@ Você pode enviar sua pergunta sempre até a quinta-feira, depois disso o Cast f
 
 ## Como sei quem é o convidado e qual o tema?
 É só ficar ligado:
- - Canal: https://www.youtube.com/EuProgramadorOficial
- - Página: https://www.facebook.com/CanalEuProgramador
+ - [PodTech](https://soundcloud.com/euprogramador/sets/podtech)
+ - [Canal](https://www.youtube.com/euprogramadoroficial)
+ - [Página](https://www.facebook.com/canaleuprogramador)
 
 <b>E acompanhar os Casts!!!</b>
 
 ## Quando sai o episódio?
-Todo sábado às <b>11:30</b>.
+Todo sábado às <b>20:00</b>.
 
 ## E se eu quiser sugerir/indicar algum convidado?
 Você pode, é só criar uma Issue para isso, nós iremos separar e marcar com a tag Convidado.
@@ -33,5 +34,5 @@ Você pode, é só criar uma Issue para isso, nós iremos separar e marcar com a
 ### Não sabe como?
  - Basta clicar em Issues ai em cima :)
  - No canto superior direito tem um botão verde (New Issue), é só clicar.
- - Coloque o nome do convidado como titulo e descreva a sugestão na desvrição.
+ - Coloque o nome do convidado como titulo e descreva a sugestão na descrição.
  - Pronto ;)
