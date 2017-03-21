@@ -1,7 +1,7 @@
 # PodTech
-![Logo PodTech](https://ap.imagensbrasil.org/images/teste0e4b1.png)
+![Logo PodTech](http://i.imgur.com/XN9qYUg.png)
 
-<b>O PodTech é um podcast semanal dinâmico, onde cada semana temos um convidado e um tema diferente geralmente relacionado a linguagem Go.</b>
+<b>O PodTech é um podcast quinzenal dinâmico, onde cada semana temos um convidado e um tema diferente geralmente relacionado a linguagem Go.</b>
 
 Este repositório foi feito para que a comunidade possa enviar suas perguntas para nossos convidados e assim interagir conosco.
 
