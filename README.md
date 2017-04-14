@@ -1,4 +1,3 @@
-# PodTech
 ![Logo PodTech](http://i.imgur.com/fpbpZbu.png)
 
 <b>O PodTech é um podcast quinzenal dinâmico, onde a cada episódio temos um convidado e um tema diferente geralmente relacionado a linguagem Go.</b>
