@@ -10,11 +10,11 @@ Fácil, basta comentar nossa Issue.
 ### Não sabe como?
  - Basta clicar em Issues ai em cima :)
  - Vai ter uma Issue sobre o convidado da semana, marcada com a Tag tema, é só clicar.
- - Agora leia os comentários, caso haja, e se ninguêm fez a pergunta que quer ainda é só faze-la nos comentários.
+ - Agora leia os comentários, caso haja, e se ninguêm fez a sua pergunta ainda, é só faze-la nos comentários.
  - Pronto ;)
 
 ## Até que dia posso enviar minha pergunta?
-Você pode enviar sua pergunta sempre até a quinta-feira, depois disso o Cast fecha e começa um novo.
+Você pode enviar sua pergunta sempre até a quinta-feira anterior ao episódio, depois disso o Cast fecha e começa um novo.
 
 ## Como sei quem é o convidado e qual o tema?
 É só ficar ligado:
